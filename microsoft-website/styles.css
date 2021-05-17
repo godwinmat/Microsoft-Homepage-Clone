@@ -333,6 +333,10 @@ i {
 		color: rgba(0, 0, 0, 0.9);
 		font-size: 14px;
 	}
+	
+	.showcase header ul li a:hover {
+		border-bottom: 0;
+	}
 
 	.showcase header .menubtn {
 		display: block;
