@@ -15,4 +15,4 @@ This is a project that aims to replicate the design and layout of the Microsoft 
 - Interactive footer with links to social media pages and contact information
 
 ## Demo
-To view a live demo of the project, please visit https://zen-cray-bd2445.netlify.app/
+To view a live demo of the project, please visit https://ms-homepage-clone.netlify.app/
